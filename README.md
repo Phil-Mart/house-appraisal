@@ -1,7 +1,7 @@
 # House Appraisal
 This is a personal project I crafted recently in order to contest my tax appraisal I received from Denton County in April. 
 
-Attached you will find three folders-
+Attached are three folders-
 
 Code: Two SQL queries that I crafted to sift through the Federal Housing Finance Agency's House Price Index datasets. It also contains a Jupiter Notebook I used to filter the data down to my specific zip code to find the most relatable data to make my case.
 
