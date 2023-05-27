@@ -10,6 +10,9 @@ Proof: After creating my resources, I the parsed csv files from pandas once more
 It is clear after viewing the data that my house appraisal should not be fixed at 9%. This includes several metrics: 
 
 Zillow's Home Value Index for the city of Dallas, showing a distinct decline in home-sale values year-over-year;
+
 FHFA's market index for Denton County, showing a decline in the number of both purchases and refinances in my county for the last two quarters;
+
 The FHFA appraisal value for houses below the 25th percentile (the range of my home's value), which went down from Q3 2022 to Q4 2022 by an average by $5000;
+
 Other sensitive data will be presented but is not present. 
