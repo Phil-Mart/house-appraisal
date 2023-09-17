@@ -25,3 +25,9 @@ Other sensitive data will be presented but is not present.
 
 # Conclusion:
 I successfully contested my home's taxable value, reducing it from its current market value by $50,000. Although my evidence was compelling enough to lower our taxes further, my spouse made me consent to the county's settlement value and not show my findings in a hearing. Nevertheless, our evidence was compelling enough to make a change to our taxes, thus saving us money for the 2023 tax year. 
+
+# Contact:
+
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
